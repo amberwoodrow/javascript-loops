@@ -7,7 +7,7 @@
 
 #### Problem:
 
-0 1 2 3 4 5 6 7 8 9 10
+    0 1 2 3 4 5 6 7 8 9 10
 #### Output in the console:
 
     0
@@ -28,7 +28,7 @@
         }
 ### Problems
 
-The output of the problems is written on a single line for brevity; your solutions will output each value on a new line like in the example above.
+> The output of the problems is written on a single line for brevity; your solutions will output each value on a new line like in the example above.
 
 1.    0 100 200 300 400 500 600 700 800 900 1000
 2.    1 2 4 8 16 32 64 128
@@ -37,3 +37,6 @@ The output of the problems is written on a single line for brevity; your solutio
 5.    9 8 7 6 5 4 3 2 1 0
 6.    1 1 1 2 2 2 3 3 3 4 4 4
 7.    0 1 2 3 4 0 1 2 3 4 0 1 2 3 4
+
+
+See this in action at (CodePen)[http://codepen.io/amberwoodrow/pen/PqeVbQ]
